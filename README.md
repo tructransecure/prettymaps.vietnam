@@ -135,15 +135,13 @@ plt.savefig('/home/tructt/sg.png')
 plt.savefig('/home/tructt/sg.svg')
 ```
 
-<u>Ảnh sample</u>
-
 Thành phố Huế
 
-![https://github.com/tructransecure/prettymaps.vietnam/blob/main/City%20samples%20with%20river/Hu%E1%BA%BF.jpg]()
+![](https://github.com/tructransecure/prettymaps.vietnam/blob/main/City%20samples%20with%20river/Hu%E1%BA%BF.jpg?raw=true)
 
 Sài Gòn
 
-![](https://github.com/tructransecure/prettymaps.vietnam/blob/main/City%20samples%20with%20river/S%C3%A0i%20G%C3%B2n.jpg)
+![](https://github.com/tructransecure/prettymaps.vietnam/blob/main/City%20samples%20with%20river/S%C3%A0i%20G%C3%B2n.jpg?raw=true)
 
 ------
 
